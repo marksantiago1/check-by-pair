@@ -1,0 +1,181 @@
+/*PAGE 1*/
+.background-p1{
+    background-image: url(imgs/strawhatgang.png);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    border: 5px solid black;
+}
+.p1{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+    background-color: rgba(255, 255, 255, .5);
+    margin: 50px;
+    
+}
+.welcome_text1{
+    text-align: center;
+    color: black;
+}
+/*END OF PAGE 1*/
+/*Button/Links Page1*/
+.button{
+    margin-top: 13%;
+    text-align: center;
+}
+
+.button .previous {
+    background-color: rgba(0, 0, 0, .6);
+    color: floralwhite;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 5px;
+    font-size: 15px;
+}
+
+.button .next {
+    background-color: rgba(0, 0, 0, .6);
+    color: floralwhite;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 5px;
+    font-size: 15px;
+}
+
+.button .previous:hover{
+    background-color: dodgerblue;
+    color: floralwhite;
+}
+
+.button .next:hover{
+    background-color: dodgerblue;
+    color: floralwhite;
+} 
+/*End of PAGE 1*/
+
+/*PAGE 2*/
+.bP2{
+    background-color: dodgerblue;
+    color: floralwhite;
+}
+.welcome_text2{
+    text-align: center;
+    margin: 50px;
+}
+.beluga{
+    width: 100%;
+    height: auto;
+}
+.p2{
+    text-align: justify;
+    margin: 50px;
+}
+ul{
+    text-align: center;
+    margin: 50px;
+}
+
+.buttonP2{
+    margin: 50px;
+    text-align: center;
+}
+
+.buttonP2 .previous {
+    background-color: rgba(0, 0, 0, .6);
+    color: floralwhite;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 5px;
+    font-size: 15px;
+    margin: 50px;
+}
+
+.buttonP2 .next {
+    background-color: rgba(0, 0, 0, .6);
+    color: floralwhite;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 5px;
+    font-size: 15px;
+    margin: 50px;
+}
+
+.buttonP2 .previous:hover{
+    background-color: rgba(255, 250, 245, .8);
+    color: rgba(0, 0, 0, .6);
+}
+
+.buttonP2 .next:hover{
+    background-color: rgba(255, 250, 245, .8);
+    color: rgba(0, 0, 0, .6);
+} 
+/*END OF PAGE 2*/
+/*PAGE 3*/
+.background-p3{
+    background-image: url(imgs/strawhatgang.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: auto;
+}
+.welcome_text3{
+    text-align: center;
+    margin: 50px;
+    color: red;
+}
+table{
+    border-collapse: collapse;
+    width: auto;
+    padding: 15px;
+}
+table, th, td{
+    border: 5px solid rgba(0, 0, 0, .8);
+    text-align: center;
+    background-color: rgba(255, 255, 255, .5);
+    color: red;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 25px;
+    padding: 15px;
+}
+
+.buttonP3{
+    margin: 50px;
+    text-align: center;
+}
+
+.buttonP3 .previous {
+    background-color: rgba(0, 0, 0, .6);
+    color: red;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 5px;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.buttonP3 .next {
+    background-color: rgba(0, 0, 0, .6);
+    color: red;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 5px;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.buttonP3 .previous:hover{
+    background-color: rgba(255, 250, 245, .8);
+    color: rgba(0, 0, 0, .6);
+}
+
+.buttonP3 .next:hover{
+    background-color: rgba(255, 250, 245, .8);
+    color: rgba(0, 0, 0, .6);
+} 
+/*END OF PAGE 3*/
